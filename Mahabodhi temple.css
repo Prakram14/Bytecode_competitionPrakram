@@ -1,0 +1,21 @@
+
+body{
+   background-image: url("Great-Buddha-Statue-at-Bodh-Gaya-Bihar-India.jpg");
+    
+    
+}
+.head{
+font-size: 50px;
+padding-left: 90px;
+color: rgb(234, 250, 5);
+}
+.map{
+    padding-left: 20px;
+    padding-top: 100px;
+}
+.topic{
+   font-size: 30px;
+   padding-right: 50px;
+   color: rgb(20, 241, 8);
+   
+}
